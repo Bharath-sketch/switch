@@ -29,3 +29,4 @@ public class colorname {
 		}
 	}
 }
+//Write a program to receive a color code from the user (an Alphabhet). The program should then print the color name, based on the color code given. 
