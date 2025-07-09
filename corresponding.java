@@ -49,3 +49,4 @@ public static void main(String args[]) {
 }
 }
 }
+//Write a program to receive a number and print the corresponding month name. 
